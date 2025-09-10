@@ -17,7 +17,7 @@ A professional Python-based coffee shop management system that handles order pro
 ##  Installation
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/Coffee-Shop-Project.git
+git clone https://github.com/syedmra102/Coffee-Shop-Project.git
 
 # Navigate to project directory
 cd Coffee-Shop-Project
